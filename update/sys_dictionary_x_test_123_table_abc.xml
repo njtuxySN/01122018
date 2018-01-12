@@ -33,7 +33,7 @@
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>100</max_length>
         <name>x_test_123_table</name>
         <next_element/>
         <primary>false</primary>
@@ -53,14 +53,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-01-12 22:39:41</sys_created_on>
         <sys_id>69d9adf21023030056865ad98af808ed</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>abc</sys_name>
         <sys_package display_value="test_123" source="x_test_123">62e7a5f21023030056865ad98af80814</sys_package>
         <sys_policy/>
         <sys_scope display_value="test_123">62e7a5f21023030056865ad98af80814</sys_scope>
         <sys_update_name>sys_dictionary_x_test_123_table_abc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-12 22:39:41</sys_updated_on>
+        <sys_updated_on>2018-01-12 22:41:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
